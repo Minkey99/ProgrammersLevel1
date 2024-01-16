@@ -1,3 +1,5 @@
+package RaceProb;
+
 public class Race {
     public static void main(String[] args) {
         String[] players = {"mumu", "soe", "poe", "kai", "mine"};

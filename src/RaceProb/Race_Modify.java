@@ -1,3 +1,5 @@
+package RaceProb;
+
 import java.util.HashMap;
 
 public class Race_Modify {
